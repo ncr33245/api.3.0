@@ -1,4 +1,3 @@
-Certainly! Here's the modified Markdown code with a link to your Discord server at "https://discord.gg/BjKByxy7QK":
 
 ```markdown
 # ncr33245's App
