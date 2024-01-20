@@ -1,2 +1,5 @@
-# api.3.0
-**API 3.0:** API 3.0 is the latest iteration of our efficient Application Programming Interface. Packed with enhanced features, it simplifies data communication between software applications, ensuring seamless integration for developers. Upgrade to API 3.0 for a smoother, more dynamic development experience.
+## Support
+
+If you encounter any issues or have questions, feel free to reach out on our Discord server.
+
+[![Discord](https://img.shields.io/discord/123456789012345678)](https://discord.gg/tXyhncG3w3)
