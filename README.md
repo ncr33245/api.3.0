@@ -44,15 +44,3 @@ If you encounter any issues or have questions, feel free to reach out on our Dis
 [Include information about the license under which the app is distributed. For example, whether it's an open-source project, and the type of license used.]
 
 This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Replace `[provide a brief description of what the app does]`, `[Include instructions on how to install and run the app. If there are any prerequisites or dependencies, mention them here.]`, and `[Include information about the license under which the app is distributed. For example, whether it's an open-source project, and the type of license used.]` with the relevant details about your app)
-
-## License
-
-[Include information about the license under which the app is distributed. For example, whether it's an open-source project, and the type of license used.]
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Replace `[provide a brief description of what the app does]`, `[Include instructions on how to install and run the app. If there are any prerequisites or dependencies, mention them here.]`, and `[Include information about the license under which the app is distributed. For example, whether it's an open-source project, and the type of license used.]` with the relevant details about your app.
